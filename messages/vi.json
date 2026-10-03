@@ -1,0 +1,20 @@
+{
+  "common": {
+    "price": "Giá",
+    "inStock": "Còn hàng",
+    "soldOut": "Đã bán",
+    "featured": "Nổi bật",
+    "catalogLabel": "Danh mục",
+    "items": "sản phẩm"
+  },
+  "home": {
+    "eyebrow": "Thương hiệu hàng Nhật đã qua sử dụng",
+    "feature1": "Lựa chọn tinh gọn",
+    "feature2": "Dễ tìm kiếm đúng nhu cầu",
+    "feature3": "Liên hệ trực tiếp",
+    "aboutTitle": "Về JAPAN 2ND LIFE",
+    "aboutText": "Chúng tôi tập trung vào hàng Nhật đã qua sử dụng với chất lượng ổn định, thoải mái trong sử dụng và mục tiêu dễ tiếp cận cho khách hàng.",
+    "contactTitle": "Thông tin liên hệ",
+    "contactText": "Tham khảo các mặt hàng Nhật đã qua sử dụng được giới thiệu tại JAPAN 2ND LIFE."
+  }
+}
